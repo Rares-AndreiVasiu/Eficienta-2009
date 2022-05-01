@@ -2,9 +2,9 @@
 
 ### Bacalaureat *anul 2009*
 
->Rezolvari propii
->>indexul problemelor nu este relevant, ci doar pentru orientare
->>Pdf-ul cu rezolvari este separat de probleme
+> Rezolvari propii.
+>> indexul problemelor nu este relevant, ci doar pentru orientare. Pdf-ul cu rezolvari este separat de probleme.
+
 ---
 
 #### Status Probleme
