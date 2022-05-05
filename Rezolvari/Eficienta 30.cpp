@@ -1,24 +1,32 @@
 #include <iostream>
 #include <fstream>
-using namespace std;
 
-ifstream fin("NUMERE.IN");
+std::ifstream fin("NUMERE.IN");
 
-int n, x, y, a, b;
+int n, k, x;
+
+float z;
 
 int main()
 {
-	fin >> n;
+	fin >> n >> z;
 
-	fin >> x;
+	k = 1;
+	x = z; //x va lua partea intreaga din z
 
-	a = x;
-
-	while (fin >> y)
+	for (int i = 2; i <= n; ++i)
 	{
-		if ((int)y - int(x) == 0)
-		{
+		fin >> z;
 
+		if (z > x + 1)
+		{
+			k++;
+
+			x = z;
 		}
 	}
+
+	std::cout << k;
+
+	return 0;
 }
