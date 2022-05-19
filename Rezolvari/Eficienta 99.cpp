@@ -42,3 +42,47 @@ int main()
 
     return 0;
 }
+
+/*
+#include <iostream>
+#include <fstream>
+
+std::ifstream fin("DATE.TXT");
+
+int v[1000001], l = 1, i1 = 1, lmax = 1, x, i = 1;
+
+int main()
+{
+    fin >> v[1];
+
+    while(fin >> x)
+    {
+        i++;
+
+        v[i] = x;
+
+        if(v[i] % 2 != v[i - 1] % 2)
+        {
+            l++;
+
+            if(l > lmax)
+            {
+                lmax = l;
+
+                i1 = i - lmax + 1;
+
+            }
+        }
+        else
+            l = 1;
+    }
+
+    std::cout << lmax << '\n';
+
+    for(i = i1; i < i1 + lmax; ++ i)
+        std::cout << v[i] << ' ';
+
+    return 0;
+}
+
+*/
