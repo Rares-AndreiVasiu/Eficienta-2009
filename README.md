@@ -27,46 +27,46 @@
 - [x] Problema 25
 - [x] Problema 27
 - [x] Problema 29
-- [ ] Problema 30
+- [x] Problema 30
 - [x] Problema 31
 - [x] Problema 32
-- [ ] Problema 33
+- [x] Problema 33
 - [x] Problema 34
 - [x] Problema 36
 - [x] Problema 40
 - [x] Problema 41
-- [ ] Problema 42
-- [ ] Problema 43
-- [ ] Problema 44
-- [ ] Problema 45
-- [ ] Problema 62
-- [ ] Problema 63
-- [ ] Problema 64
-- [ ] Problema 65
-- [ ] Problema 66
-- [ ] Problema 67
-- [ ] Problema 68
-- [ ] Problema 69
-- [ ] Problema 70
-- [ ] Problema 71
-- [ ] Problema 72
-- [ ] Problema 73
-- [ ] Problema 74
-- [ ] Problema 75
-- [ ] Problema 76
-- [ ] Problema 77
-- [ ] Problema 78
-- [ ] Problema 79
-- [ ] Problema 81
-- [ ] Problema 82
-- [ ] Problema 83
-- [ ] Problema 86
-- [ ] Problema 89
-- [ ] Problema 90
-- [ ] Problema 94
-- [ ] Problema 95
-- [ ] Problema 96
-- [ ] Problema 97
-- [ ] Problema 98
-- [ ] Problema 99
-- [ ] Problema 100
+- [x] Problema 42
+- [x] Problema 43
+- [x] Problema 44
+- [x] Problema 45
+- [x] Problema 62
+- [x] Problema 63
+- [x] Problema 64
+- [x] Problema 65
+- [x] Problema 66
+- [x] Problema 67
+- [x] Problema 68
+- [x] Problema 69
+- [x] Problema 70
+- [x] Problema 71
+- [x] Problema 72
+- [x] Problema 73
+- [x] Problema 74
+- [x] Problema 75
+- [x] Problema 76
+- [x] Problema 77
+- [x] Problema 78
+- [x] Problema 79
+- [x] Problema 81
+- [x] Problema 82
+- [x] Problema 83
+- [x] Problema 86
+- [x] Problema 89
+- [x] Problema 90
+- [x] Problema 94
+- [x] Problema 95
+- [x] Problema 96
+- [x] Problema 97
+- [x] Problema 98
+- [x] Problema 99
+- [x] Problema 100
